@@ -1,5 +1,3 @@
 env/
 mynotes.txt
-project/project/*
-manage.py
-db.sqlite3
+
